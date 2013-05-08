@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAfn///PI\u003d",
+        "filename": "DeviceParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-08T21:07:53Z",
+      "side": 1,
+      "message": "Mode d\u0027\\alimentation",
+      "revId": "7ba62c1c25ca8829ab0cd4e207d9bbff28830f2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfn///qk\u003d",
         "filename": "DeviceParts/res/values-fr/strings.xml",
         "patchSetId": 1
