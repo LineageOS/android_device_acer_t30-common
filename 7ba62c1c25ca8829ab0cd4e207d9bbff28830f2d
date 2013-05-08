@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfn///qk\u003d",
+        "filename": "DeviceParts/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-05-08T01:31:42Z",
+      "side": 1,
+      "message": "Petite fôte ! \"recommandé\" :)",
+      "revId": "7ba62c1c25ca8829ab0cd4e207d9bbff28830f2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
