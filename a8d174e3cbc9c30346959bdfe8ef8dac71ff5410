@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfn//+1Y\u003d",
+        "filename": "DeviceParts/res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-09T19:08:49Z",
+      "side": 1,
+      "message": "En général c\u0027est pas au pluriel : \"Performances élevées\" ?",
+      "revId": "a8d174e3cbc9c30346959bdfe8ef8dac71ff5410",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
