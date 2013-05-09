@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">高级设置</string>
+
+    <string name="category_screen_title">屏幕</string>
+    <string name="touch_sensitivity_head">触摸敏感度</string>
+
+    <string name="touch_sensitivity_very_high">非常高</string>
+    <string name="touch_sensitivity_high">高</string>
+    <string name="touch_sensitivity_medium">中</string>
+    <string name="touch_sensitivity_low">低</string>
+
+    <string name="category_power_title">电源</string>
+    <string name="power_mode_head">电源模式</string>
+    <string name="power_mode_high">高性能</string>
+    <string name="power_mode_medium">平衡 (推荐)</string>
+    <string name="power_mode_low">节能</string>
+</resources>
