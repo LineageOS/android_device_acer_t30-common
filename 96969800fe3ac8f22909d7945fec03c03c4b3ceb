@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_cdf2c906",
+        "filename": "DeviceParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-06-27T17:35:03Z",
+      "side": 1,
+      "message": "Ich bin mir nicht sicher, ob diese Einstellungen eher auf Energie oder Leistung bezogen sind...",
+      "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4157f_adf795f4",
+        "filename": "DeviceParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-06-27T17:35:03Z",
+      "side": 1,
+      "message": "\u0027Hohe Performance\u0027 hoert sich ziemlich bescheiden an, aber mir ist auf die Schnelle nichts besseres eingefallen. Hoffe mal auf eure Hilfe :)",
+      "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
