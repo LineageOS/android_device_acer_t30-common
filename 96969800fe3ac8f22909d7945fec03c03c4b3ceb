@@ -33,6 +33,24 @@
       "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4157f_2de4a539",
+        "filename": "DeviceParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-27T17:37:18Z",
+      "side": 1,
+      "message": "Vielleicht wie in Windows \u0027Höchstleistung\u0027?",
+      "parentUuid": "dac4157f_adf795f4",
+      "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
