@@ -51,6 +51,24 @@
       "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4157f_adce75b2",
+        "filename": "DeviceParts/res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-06-27T17:41:53Z",
+      "side": 1,
+      "message": "Oder auch \u0027Beste Performance\u0027 oder \u0027Hoechste Leistung\u0027. Danny, warum kannst du eig Umlaute verwenden? Ich bekomme immer einen Server 500 Error... :(",
+      "parentUuid": "dac4157f_2de4a539",
+      "revId": "96969800fe3ac8f22909d7945fec03c03c4b3ceb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
